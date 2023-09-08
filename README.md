@@ -1,9 +1,8 @@
 # js_coding_challenges
 
-Write a JavaScript function that takes an integer as an argument and returns "Even" if it's an even number or "Odd" if it's an odd number.
-Bonus Challenges
-Modify the function to handle non-integer inputs gracefully. Return an error message if the input is not an integer. 
+Write a JavaScript function that takes a string as an input and returns the reverse of that string.
+Modify the function to handle special characters or whitespace gracefully. 
 
-Implement the function without using conditional statements (if-else).
+Write a version of the function that doesn't use the split, reverse, or join methods. 
 
-Extend the function to check if the input is a positive or negative even or odd number. 
+Create a web page that allows users to input a string and see the reversed result interactively. 
