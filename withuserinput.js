@@ -10,5 +10,5 @@ function reverseString(inputString){
 
 
 
-const inputString = (prompt("Enter a number: "));
+const inputString = (prompt("Enter a string: "));
 reverseString(inputString);
